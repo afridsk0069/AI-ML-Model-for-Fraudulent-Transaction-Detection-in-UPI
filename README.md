@@ -1,3 +1,9 @@
+Team No : 18
+Team Name : SYNTAX SURFERS
+Kalasalingam University 
+Pragyan, NIT Tiruchirappalli
+Feb 21 – 22
+
 Fraud Detection System
 Project Overview
 This project aims to build a fraud detection system that identifies fraudulent transactions in real-time. The system uses machine learning models to analyze transaction data and predict whether a transaction is fraudulent or legitimate. The project includes data preprocessing, feature engineering, model training, evaluation, and deployment.
